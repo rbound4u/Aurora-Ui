@@ -19,7 +19,7 @@ local LocalPlayer = Players.LocalPlayer
 local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
 
 -- Load Lucide Icons from external source
-AuroraUI.LucideURL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/lucide_icons.lua"
+AuroraUI.LucideURL = "https://raw.githubusercontent.com/rbound4u/Aurora-Ui/refs/heads/main/Src/Source/Lucid.luau"
 AuroraUI.LucideIcons = {}
 
 function AuroraUI:LoadLucideIcons(customURL)
